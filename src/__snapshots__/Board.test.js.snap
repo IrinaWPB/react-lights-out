@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Board"
+  >
+    <h1
+      class="Board-header"
+    >
+      Lights Out
+    </h1>
+    <table
+      class="Board-table"
+    >
+      <tbody>
+        <tr>
+          <td
+            class="Cell "
+            data-testid="0-0"
+          />
+          <td
+            class="Cell "
+            data-testid="0-1"
+          />
+          <td
+            class="Cell "
+            data-testid="0-2"
+          />
+          <td
+            class="Cell "
+            data-testid="0-3"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell "
+            data-testid="1-0"
+          />
+          <td
+            class="Cell "
+            data-testid="1-1"
+          />
+          <td
+            class="Cell "
+            data-testid="1-2"
+          />
+          <td
+            class="Cell "
+            data-testid="1-3"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell "
+            data-testid="2-0"
+          />
+          <td
+            class="Cell "
+            data-testid="2-1"
+          />
+          <td
+            class="Cell "
+            data-testid="2-2"
+          />
+          <td
+            class="Cell "
+            data-testid="2-3"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell "
+            data-testid="3-0"
+          />
+          <td
+            class="Cell "
+            data-testid="3-1"
+          />
+          <td
+            class="Cell "
+            data-testid="3-2"
+          />
+          <td
+            class="Cell "
+            data-testid="3-3"
+          />
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot 2`] = `
+<DocumentFragment>
+  <div
+    class="Board"
+  >
+    <h1
+      class="Board-header"
+    >
+      Lights Out
+    </h1>
+    <div>
+      You WON!
+    </div>
+  </div>
+</DocumentFragment>
+`;
